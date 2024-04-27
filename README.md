@@ -1,1 +1,3 @@
 # ME462-vSLAM-Project
+This project is for my ME462 Robotics Vision class at Southern Illinois University Edwardsville under Professor Mingshao Zhang. This project covers the topic of monocular visual simultaneous localization and mapping (SLAM). The purpose of this project is to become familiar with the methods and math behind this technology. First, we followed MATLAB's implementation to get a feel for the application. Then, we collected our own video to reconstruct our own 3-D map. Our 3-D map is not perfect by any stretch, but it was useful in learning the subject and figuring out how to create our own dataset. 
+The link to the MATLAB project example: https://www.mathworks.com/help/vision/ug/monocular-visual-simultaneous-localization-and-mapping.html 
